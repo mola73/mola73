@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 Passionate computer scientist skilled in data collection, software development, and machine learning. Proven ability to achieve goals and collaborate effectively. Experienced working in diverse environments and committed to fostering growth in an inclusive community.
 
 - 🔭 I’m currently working on computer robot interaction and data structure Analysis
@@ -10,4 +10,4 @@ Passionate computer scientist skilled in data collection, software development, 
 - 💬 Ask me about Java, Python, C
 - 📫 How to reach me: molaniyan@unbc.ca
 - ⚡ Fun fact: 
--->
+
