@@ -7,7 +7,7 @@ Passionate computer scientist skilled in data collection, software development, 
 - 🌱 I’m currently learning about predictive models and algorithms using advanced machine-learning techniques
 - 🧾 Find out more about me here! www.linkedin.com/in/muhammad-olaniyan-88621030b 
 - 🤔 I’m looking for help with C# / C++
-- 💬 Ask me about Java, Python, C
+- 💬 Ask me about Java, Python, C, JavaScript, CSS, HTML
 - 📫 How to reach me: molaniyan@unbc.ca
 - ⚡ Fun fact: 
 
